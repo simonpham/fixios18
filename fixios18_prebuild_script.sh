@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define the file path to be searched
-FILE="./ios/.symlinks/plugins/flutter_inappwebview_ios/ios/Classes/InAppWebView/InAppWebView.swift"
-BASE_DIR="$HOME/.pub-cache/hosted/pub.flutter-io.cn/flutter_inappwebview_ios"
+FILE="./.symlinks/plugins/flutter_inappwebview_ios/ios/Classes/InAppWebView/InAppWebView.swift"
+BASE_DIR="$HOME/.pub-cache/hosted/pub.dev/flutter_inappwebview_ios"
 
 # Define a function to handle file modification logic
 modify_file() {
